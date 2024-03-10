@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Skalo</string>
+    <string name="register_measurement_button">Register weight</string>
+</resources>
